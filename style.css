@@ -1,0 +1,41 @@
+.jambotrons#head{
+    background-image: url(https://initiate.alphacoders.com/download/wallpaper/875862/images8/jpg/1277913450680334) ;
+    background-size: 100%;
+    text-align: center;
+    
+}
+
+.jambotrons img{
+    height: 100px;
+    margin-top: 200px;
+    margin-bottom: 20px;
+    border-radius: 50%;
+    border: 3px solid white;
+    
+}
+
+#Icons{
+    text-align: end;
+    margin-top: 200px;
+}
+
+#content{
+    margin-left: 15px;
+}
+
+h2{
+    text-decoration-line: underline;
+}
+
+h6{
+    color: white;
+}
+
+.Icons{
+    text-align: left;
+}
+
+p{
+    font-weight: bold;
+}
+
